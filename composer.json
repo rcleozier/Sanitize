@@ -1,0 +1,22 @@
+{
+    "name": "rcleozier/sanitze",
+    "description": "A php sanitizer utility. Helpful for sanitizing emails, ip addresses. Build on top of filter_var",
+    "keywords": [
+        "sanitize", "validation", "filter_var", "sanitization"
+    ],
+    "homepage": "https://github.com/rcleozier/Sanitize",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robbins Cleozier",
+            "email": "rcleozier@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "support": {
+        "issues": "https://github.com/rcleozier/Sanitize/issues",
+        "source": "https://github.com/rcleozier/Sanitize"
+    }
+}
